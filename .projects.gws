@@ -1,0 +1,28 @@
+# Makapuf
+sdk | git://github.com/makapuf/bitbox.git
+bdash | git://github.com/makapuf/bitbox-bdash.git
+fire | git://github.com/makapuf/bitbox-fire.git
+jump | git://github.com/makapuf/bitbox-jump.git
+polar | git://github.com/makapuf/bitbox-polar.git
+rapidball | git://github.com/makapuf/bitbox-rapidball.git
+2048 | git://github.com/makapuf/bitbox-2048.git
+bitcaster | git://github.com/makapuf/bitbox-bitcaster.git
+bitbzx | git://github.com/makapuf/bitbox-spectrum.git
+modplayer | git://github.com/makapuf/bitbox-mod.git
+beatblocks | git://github.com/makapuf/beatblocks.git
+bitboy | git://github.com/makapuf/bitboy.git
+prez | git://github.com/makapuf/bitbox-prez.git
+# Missing: video player?
+
+# Lowagner
+bbgunner | git://github.com/lowagner/bitbox-bbgunner.git
+snake | git://github.com/lowagner/bitbox-snake.git
+checkers3d | git://github.com/lowagner/bitbox-checkers3d.git
+mmat | git://github.com/lowagner/bitbox-mmat.git
+
+# Ludrao
+bomberman | git://github.com/ludrao/bitbox-bomberman.git
+
+# PulkoMandy
+beamracer | git://github.com/pulkomandy/beamracer_btbx.git
+chiptracker | git://github.com/pulkomandy/bitbox-chiptracker.git
