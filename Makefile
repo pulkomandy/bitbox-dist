@@ -20,4 +20,4 @@ haikudeps:
 	echo "Remember to run \"setarch x86\" before compiling!"
 
 update:
-	gws update
+	gws fetch
