@@ -1,6 +1,7 @@
 # Makapuf
 sdk | git://github.com/makapuf/bitbox.git
 
+0xFF | git://github.com/makapuf/bitbox-0xFF.git
 2048 | git://github.com/makapuf/bitbox-2048.git
 alterego | git://github.com/makapuf/bitbox-alterego.git
 bdash | git://github.com/makapuf/bitbox-bdash.git
@@ -17,6 +18,7 @@ modplayer | git://github.com/makapuf/bitbox-mod.git
 polar | git://github.com/makapuf/bitbox-polar.git
 prez | git://github.com/makapuf/bitbox-prez.git
 rapidball | git://github.com/makapuf/bitbox-rapidball.git
+tubeguy | git://github.com/makapuf/bitbox-tubeguy.git
 
 # Lowagner
 bbgunner | git://github.com/lowagner/bitbox-bbgunner.git
